@@ -1,1 +1,2 @@
 this is my first GitHub Class
+this is my second commit
